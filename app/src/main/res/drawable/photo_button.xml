@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#77000000"/>
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_photo"
+        android:bottom="@dimen/camera_padding"
+        android:top="@dimen/camera_padding"
+        android:end="@dimen/camera_padding"
+        android:start="@dimen/camera_padding"/>
+
+</layer-list>

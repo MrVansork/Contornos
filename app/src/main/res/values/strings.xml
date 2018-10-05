@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contornos</string>
+
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="confirm">Ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
